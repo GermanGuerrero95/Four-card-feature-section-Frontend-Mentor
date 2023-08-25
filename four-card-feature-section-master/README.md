@@ -5,6 +5,7 @@
 Thanks for checking out this front-end coding challenge.
 
 ![Alt text](assets/design/desktop-design.jpg)
+C:\Users\USER\Documents\Programacion\Four-card-feature-section-Frontend-Mentor\four-card-feature-section-master\assets\design
 
 # DESKTOP DESIGN
 
