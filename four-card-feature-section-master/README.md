@@ -4,13 +4,9 @@
 
 Thanks for checking out this front-end coding challenge.
 
-![# MOBILE DESIGN
-
-!\[Alt text\](assets/design/mobile-design.jpg)
+![Alt text](assets/design/desktop-design.jpg)
 
 # DESKTOP DESIGN
-
-!\[Alt text\](assets/design/desktop-preview.jpg)](assets/design/desktop-preview.jpg)
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
